@@ -7,10 +7,10 @@ description 'Custom Commands'
 version '1.0.0'
 
 -- What to run
-client_scripts {
-    'client.lua'--,
+--client_scripts {
+--    'client.lua'--,
  --   'client_two.lua'
-}
+--}
 server_script 'server.lua'
 
 -- Extra data can be used as well
