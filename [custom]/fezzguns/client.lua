@@ -6,7 +6,6 @@ end)
 Citizen.CreateThread(function()
 
     local h_key = 74 -- "H" key
-    local x_key = 73 -- "X" key
     while true do 
         Citizen.Wait(1)
         if IsControlJustReleased(1, h_key) then -- If "H" is just released then
