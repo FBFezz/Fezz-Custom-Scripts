@@ -1,6 +1,5 @@
--- Resource Metadata
 fx_version 'bodacious'
-games { 'gta5' }
+game 'gta5' 
 
 author 'Fezz'
 description 'Removes Vehicle Weapons'
